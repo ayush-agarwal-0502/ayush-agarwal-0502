@@ -8,7 +8,7 @@ I am fascinated by technology and love engineering very much .
 
 I'm intrested in Electronics ( Digital and Analog ) , Mechatronics ( Enthusiastic about designing new inventions ) , Robotics ( Bit of experience in Control theory , Reinforcement 
 Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) , IoT ( Haven't explored much yet , looking forward to ) and Machine Learning 
-( Particularly basic ML and Computer Vision) 
+( Particularly Data Science and Computer Vision) 
 
 - Experience 
 
