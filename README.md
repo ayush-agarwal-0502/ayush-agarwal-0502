@@ -24,8 +24,8 @@ I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit
   
   Email Id : College ID : ayush.agarwal.ece20@itbhu.ac.in
 
-![image](https://user-images.githubusercontent.com/86561124/163673109-56b9b8e1-deb9-4b9b-b32e-a839552e5613.png)
-![image](https://user-images.githubusercontent.com/86561124/163673111-4990f625-1b3e-474d-afe8-5ea0fa652ff7.png)
+<!-- ![image](https://user-images.githubusercontent.com/86561124/163673109-56b9b8e1-deb9-4b9b-b32e-a839552e5613.png) -->
+<!-- ![image](https://user-images.githubusercontent.com/86561124/163673111-4990f625-1b3e-474d-afe8-5ea0fa652ff7.png) -->
 ![image](https://user-images.githubusercontent.com/86561124/172537250-c9ad39d6-bf6d-4614-b70f-12788ba69f50.png)
 
 
