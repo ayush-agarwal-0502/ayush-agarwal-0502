@@ -1,13 +1,10 @@
-
-
-
-- 👋 Hi, I’m @ayush-agarwal-0502
+### 👋 Hi, I’m @ayush-agarwal-0502
 
 Hi, I'm Ayush Agarwal . I'm an Electronics Engineering student at IIT BHU Varanasi .
 
 I am fascinated by technology and love engineering very much .
 
-- 👀 I’m interested in ...
+### 👀 I’m interested in ...
 
 I'm intrested and skilled in  
 
@@ -20,20 +17,15 @@ I'm also passionate about **IoT** ( Haven't explored much yet , looking forward 
 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
    
-   
-- Experience 
+### Experience 
 
 I have experience in <b> softwares and technologies </b>  like 
-* Electronics Related : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) 
-* Robotics Related : Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) ,
-* Machine Learning Related : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines, FBprophet etc ) 
-* Programming Related : C ,C++, Python, SQL 
-  
-  
-   
-  
-  
-  - 📫 How to reach me ...
+* **Electronics Relate**d : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) 
+* **Robotics Related** : Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) ,
+* **Machine Learning Related** : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines, FBprophet etc ) 
+* **Programming Related** : C ,C++, Python, SQL 
+
+  ### 📫 How to reach me ...
   
   Reach me on my 
   
