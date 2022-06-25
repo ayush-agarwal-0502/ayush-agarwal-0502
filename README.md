@@ -34,6 +34,11 @@ I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit
   
   Reach me on my 
   
+  <p align="center">
+  <a href="www.linkedin.com/in/ayush-agarwal-261041215"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="ayush.agarwal.ece20@itbhu.ac.in"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+</p>
+  
   LinkedIn Profile : www.linkedin.com/in/ayush-agarwal-261041215
   
   Email Id : College ID : ayush.agarwal.ece20@itbhu.ac.in
