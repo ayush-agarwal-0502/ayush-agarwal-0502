@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @ayush-agarwal-0502
 
-Hi, I'm Ayush Agarwal . I'm an Electronics Engineering student at IIT BHU Varanasi .
-I am fascinated by technology and love engineering very much .
+Hi, I'm Ayush Agarwal . Welcome to my GitHub Page . I'm an Electronics Engineering student at IIT BHU Varanasi (__ECE'24__) .
+I am fascinated by technology and love engineering very much . My work on vast variety of projects is availaible in my repositories , please see them :)
 <p align=center><a href="https://github.com/ayush-agarwal-0502?tab=repositories"><img src="https://badges.pufler.dev/repos/ayush-agarwal-0502?style=flat-square&color=black&logo=github"></a></p>
   <!--
 <p align=center>
@@ -30,7 +30,7 @@ I'm also passionate about **IoT** ( Haven't explored much yet , looking forward 
 ### Experience 
 
 I have experience in <b> softwares and technologies </b>  like 
-* **Electronics Relate**d : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) 
+* **Electronics Related** : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) 
 * **Robotics Related** : Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) ,
 * **Machine Learning Related** : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines, FBprophet etc ) 
 * **Programming Related** : C ,C++, Python, SQL 
