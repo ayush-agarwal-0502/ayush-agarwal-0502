@@ -10,18 +10,20 @@ I am fascinated by technology and love engineering very much .
 
 - 👀 I’m interested in ...
 
-I'm intrested in Electronics ( Digital and Analog ) , Mechatronics ( Enthusiastic about designing new inventions ) , Robotics ( Bit of experience in Control theory , Reinforcement 
-Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) , IoT ( Haven't explored much yet , looking forward to ) and Machine Learning 
-( Particularly Data Science and Computer Vision) 
+I'm intrested and skilled in  
 
-- Experience 
+* Mechatronics ( Enthusiastic about designing new inventions ) , 
+* Robotics ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
+* Machine Learning ( Particularly Data Science, Computer Vision and Deep Learning) 
+* Electronics ( Digital and Analog ) , 
 
-I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software),
-  Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) , ML libraries ( Tensorflow , Pandas , Numpy ,
-  MatplotLib , SciKit Learn , XGBoost etc ) , C , Python 
-  
-  
-   Skills : 
+I'm also passionate about 
+* IoT ( Haven't explored much yet , looking forward to , have some basic knowledge )  
+* Electric Vehicles ( Tried exploring Powertronics and Mechanics of cars )
+* Drones ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) 
+* RPA (Havent't done much on UIPath yet ) 
+
+
    <img src="https://img.shields.io/badge/Robotics-brown"> 
    <img src="https://img.shields.io/badge/Machine Learning-green"> 
    <img src="https://img.shields.io/badge/Deep Learning-red"> 
@@ -32,6 +34,16 @@ I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit
    <img src="https://img.shields.io/badge/Data Science-brightgreen"> 
    <img src="https://img.shields.io/badge/Internet of Things-red"> 
    <img src="https://img.shields.io/badge/Drones-yellow">
+   
+   
+- Experience 
+
+I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software),
+  Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) , ML libraries ( Tensorflow , Pandas , Numpy ,
+  MatplotLib , SciKit Learn , XGBoost etc ) , C , Python 
+  
+  
+   
   
   
   - 📫 How to reach me ...
