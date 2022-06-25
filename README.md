@@ -1,8 +1,15 @@
 ### 👋 Hi, I’m @ayush-agarwal-0502
 
 Hi, I'm Ayush Agarwal . I'm an Electronics Engineering student at IIT BHU Varanasi .
-
 I am fascinated by technology and love engineering very much .
+<p align=center>
+  <a href="https://github.com/ayush-agarwal-0502">
+    <img src="https://badges.pufler.dev/visits/ayush-agarwal-0502/ayush-agarwal-0502?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/ayush-agarwal-0502?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/ayush-agarwal-0502?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
 ### 👀 I’m interested in ...
 
