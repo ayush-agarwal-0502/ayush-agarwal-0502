@@ -43,7 +43,7 @@ I'm also passionate about
 I have experience in <b> softwares and technologies </b>  like 
 * Electronics Related : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) 
 * Robotics Related : Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) ,
-* Machine Learning Related : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines etc ) 
+* Machine Learning Related : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines, FBprophet etc ) 
 * Programming Related : C ,C++, Python, SQL 
   
   
