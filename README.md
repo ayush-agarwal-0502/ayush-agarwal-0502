@@ -12,16 +12,17 @@ I am fascinated by technology and love engineering very much .
 
 I'm intrested and skilled in  
 
-* Mechatronics ( Enthusiastic about designing new inventions ) , 
-* Robotics ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
-* Machine Learning ( Particularly Data Science, Computer Vision and Deep Learning) 
-* Electronics ( Digital and Analog ) , 
+* **Mechatronics** ( Enthusiastic about designing new inventions ) , 
+* **Robotics** ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
+* **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning) 
+* **Electronics** ( Digital and Analog ) , 
 
 I'm also passionate about 
-* IoT ( Haven't explored much yet , looking forward to , have some basic knowledge )  
-* Electric Vehicles ( Tried exploring Powertronics and Mechanics of cars )
-* Drones ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) 
-* RPA (Havent't done much on UIPath yet ) 
+* **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge )  
+* **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars )
+* **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) 
+* **RPA** (Havent't done much on UIPath yet ) 
+* **Data Structures and Algorithms** (Not actually that much intrested into solving its questions but its real life applications and graph theory is amazing) 
 
 
    <img src="https://img.shields.io/badge/Robotics-brown"> 
@@ -34,13 +35,16 @@ I'm also passionate about
    <img src="https://img.shields.io/badge/Data Science-brightgreen"> 
    <img src="https://img.shields.io/badge/Internet of Things-red"> 
    <img src="https://img.shields.io/badge/Drones-yellow">
+   <img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
    
    
 - Experience 
 
-I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software),
-  Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) , ML libraries ( Tensorflow , Pandas , Numpy ,
-  MatplotLib , SciKit Learn , XGBoost etc ) , C , Python 
+I have experience in <b> softwares and technologies </b>  like 
+* Electronics Related : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) 
+* Robotics Related : Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) ,
+* Machine Learning Related : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines etc ) 
+* Programming Related : C ,C++, Python, SQL 
   
   
    
