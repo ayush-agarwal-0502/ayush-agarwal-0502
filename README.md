@@ -1,6 +1,6 @@
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/86561124/172537250-c9ad39d6-bf6d-4614-b70f-12788ba69f50.png)
-</p>
+
 
 - 👋 Hi, I’m @ayush-agarwal-0502
 
