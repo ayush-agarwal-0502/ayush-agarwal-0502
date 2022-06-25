@@ -16,6 +16,10 @@ I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit
   Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) , ML libraries ( Tensorflow , Pandas , Numpy ,
   MatplotLib , SciKit Learn , XGBoost etc ) , C , Python 
   
+  
+  - Skills : 
+  - <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Electronics-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+  
   - 📫 How to reach me ...
   
   Reach me on my 
