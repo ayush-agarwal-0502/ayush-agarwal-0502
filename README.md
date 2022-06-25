@@ -1,3 +1,7 @@
+<p align="center">
+![image](https://user-images.githubusercontent.com/86561124/172537250-c9ad39d6-bf6d-4614-b70f-12788ba69f50.png)
+</p>
+
 - 👋 Hi, I’m @ayush-agarwal-0502
 
 Hi, I'm Ayush Agarwal . I'm an Electronics Engineering student at IIT BHU Varanasi .
@@ -45,7 +49,7 @@ I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit
 
 <!-- ![image](https://user-images.githubusercontent.com/86561124/163673109-56b9b8e1-deb9-4b9b-b32e-a839552e5613.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/86561124/163673111-4990f625-1b3e-474d-afe8-5ea0fa652ff7.png) -->
-![image](https://user-images.githubusercontent.com/86561124/172537250-c9ad39d6-bf6d-4614-b70f-12788ba69f50.png)
+
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=ayush-agarwal-0502&show_icons=true&theme=radical">
