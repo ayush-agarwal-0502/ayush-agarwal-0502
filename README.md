@@ -16,12 +16,7 @@ I'm intrested and skilled in
 * **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning) 
 * **Electronics** ( Digital and Analog ) , 
 
-I'm also passionate about 
-* **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge )  
-* **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars )
-* **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) 
-* **RPA** (Havent't done much on UIPath yet ) 
-* **Data Structures and Algorithms** (Not actually that much intrested into solving its questions but its real life applications and graph theory is amazing) 
+I'm also passionate about **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) ,**Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ) , **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) , **RPA** (Havent't done much on UIPath yet ) ,**Data Structures and Algorithms** (Not actually that much intrested into solving its questions but its real life applications and graph theory is amazing) 
 
 
    <img src="https://img.shields.io/badge/Robotics-brown"> 
