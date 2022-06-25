@@ -18,16 +18,16 @@ I have experience in <b> softwares and technologies </b>  like Proteus ( Circuit
   
   
    Skills : 
-  - <img src="https://img.shields.io/badge/Robotics-brown"> 
-  - <img src="https://img.shields.io/badge/Machine Learning-green"> 
-  - <img src="https://img.shields.io/badge/Deep Learning-red"> 
-  - <img src="https://img.shields.io/badge/Computer Vision-magenta">
-  - <img src="https://img.shields.io/badge/Digital Electronics-yellow">
-  - <img src="https://img.shields.io/badge/Analog Electronics-magenta">
-  - <img src="https://img.shields.io/badge/Mechatronics-brown"> 
-  - <img src="https://img.shields.io/badge/Data Science-green"> 
-  - <img src="https://img.shields.io/badge/Internet of Things-red"> 
-  - <img src="https://img.shields.io/badge/Drones-yellow">
+   <img src="https://img.shields.io/badge/Robotics-brown"> 
+   <img src="https://img.shields.io/badge/Machine Learning-green"> 
+   <img src="https://img.shields.io/badge/Deep Learning-red"> 
+   <img src="https://img.shields.io/badge/Computer Vision-magenta">
+   <img src="https://img.shields.io/badge/Digital Electronics-yellow">
+   <img src="https://img.shields.io/badge/Analog Electronics-magenta">
+   <img src="https://img.shields.io/badge/Mechatronics-brown"> 
+   <img src="https://img.shields.io/badge/Data Science-green"> 
+   <img src="https://img.shields.io/badge/Internet of Things-red"> 
+   <img src="https://img.shields.io/badge/Drones-yellow">
   
   
   - 📫 How to reach me ...
