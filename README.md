@@ -2,7 +2,7 @@
 
 Hi, I'm Ayush Agarwal . Welcome to my GitHub Page . I'm an Electronics Engineering student at IIT BHU Varanasi (__ECE'24__) .
 I am fascinated by technology and love engineering very much . My work on vast variety of projects is availaible in my repositories , please see them :)
-<p align=center><a href="https://github.com/ayush-agarwal-0502?tab=repositories"><img src="https://badges.pufler.dev/repos/ayush-agarwal-0502?style=flat-square&color=black&logo=github"></a></p>
+<!-- <p align=center><a href="https://github.com/ayush-agarwal-0502?tab=repositories"><img src="https://badges.pufler.dev/repos/ayush-agarwal-0502?style=flat-square&color=black&logo=github"></a></p> -->
   <!--
 <p align=center>
   <a href="https://github.com/ayush-agarwal-0502">
