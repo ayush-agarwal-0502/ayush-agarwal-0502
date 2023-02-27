@@ -21,7 +21,7 @@ I'm intrested and skilled in
 * **Mechatronics** ( Enthusiastic about designing new inventions ) , 
 * **Robotics** ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
 * **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning) 
-* **Electronics** ( Digital and Analog ) , 
+* **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) , 
 
 I'm also passionate about **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) ,**Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ) , **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) , **RPA** (Havent't done much on UIPath yet ) ,**Data Structures and Algorithms** (Not actually that much intrested into solving its questions but its real life applications and graph theory is amazing) 
 
