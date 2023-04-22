@@ -23,7 +23,7 @@ I'm intrested and skilled in
 * **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning) 
 * **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) , 
 
-I'm also passionate about **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) ,**Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ) , **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) , **Data Structures and Algorithms** (Not actually that much intrested into solving its questions but its real life applications and graph theory is amazing) 
+I'm also passionate about **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) ,**Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ) , **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) , **Data Structures and Algorithms** (Not actually that much intrested into solving its questions but its real life applications is amazing) 
 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
    
@@ -50,7 +50,10 @@ I have experience in <b> softwares and technologies </b>  like
 
 <!-- ![image](https://user-images.githubusercontent.com/86561124/163673109-56b9b8e1-deb9-4b9b-b32e-a839552e5613.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/86561124/163673111-4990f625-1b3e-474d-afe8-5ea0fa652ff7.png) -->
-![image](https://user-images.githubusercontent.com/86561124/172537250-c9ad39d6-bf6d-4614-b70f-12788ba69f50.png)
+<!-- ![image](https://user-images.githubusercontent.com/86561124/172537250-c9ad39d6-bf6d-4614-b70f-12788ba69f50.png) -->
+![image](https://user-images.githubusercontent.com/86561124/233766106-688b533d-8da4-414f-9413-02a0d1284b74.png)
+
+
 
 
 <p align=center>  
