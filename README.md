@@ -82,7 +82,8 @@ I have experience in <b> softwares and technologies </b>  like
 * **Programming Related** : C ,C++, Python, SQL , Assembly(8086), Git (Obviously), Perforce (a bit), gVim 
 
   ### 📫 How to reach me ...
-  
+
+  Got a job ?? 
   Reach me on my 
   
   <p align="center">
@@ -93,6 +94,7 @@ I have experience in <b> softwares and technologies </b>  like
   LinkedIn Profile : www.linkedin.com/in/ayush-agarwal-261041215
   
   Email Id : College ID : ayush.agarwal.ece20@itbhu.ac.in
+  Personal ID : ayush.ag.05@gmail.com
 
 <!-- ![image](https://user-images.githubusercontent.com/86561124/163673109-56b9b8e1-deb9-4b9b-b32e-a839552e5613.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/86561124/163673111-4990f625-1b3e-474d-afe8-5ea0fa652ff7.png) -->
