@@ -28,32 +28,33 @@ I'm also passionate about **IoT** ( Haven't explored much yet , looking forward 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
 
 
-### What I want you to see here on my page :
+# What I want you to see here on my page :
 
-Machine Learning / Data Science / Data Analytics Skills demonstration :
+__Machine Learning / Data Science / Data Analytics Skills demonstration :__
 
-* Data Science - https://github.com/ayush-agarwal-0502/Cassandra22-Data-Science
+* Data Science (Invoice data) - https://github.com/ayush-agarwal-0502/Cassandra22-Data-Science
 * Finance Datasci - https://github.com/ayush-agarwal-0502/Credit-Card-Fraud-Detection-ML
 * Datasci in engineering - https://github.com/ayush-agarwal-0502/Machine-Predictive-Maintainence-Anomaly-Detection
-* Computer Vision Skills (beautiful visuals inside) - https://github.com/ayush-agarwal-0502/MLWare-Technex-Project---Stained-cell-counter
-* NLP, Deep learning (U Net) - https://github.com/ayush-agarwal-0502/SoundNet-Music-Source-Separation
-* NLP - https://github.com/ayush-agarwal-0502/Spam-Destroyer-NLP
+* Computer Vision Skills (beautiful visuals inside)(medical) - https://github.com/ayush-agarwal-0502/MLWare-Technex-Project---Stained-cell-counter
+* NLP, Deep learning (U Net)(Speech) - https://github.com/ayush-agarwal-0502/SoundNet-Music-Source-Separation
+* NLP (Text) - https://github.com/ayush-agarwal-0502/Spam-Destroyer-NLP
 * Dashboard designing experience - https://github.com/ayush-agarwal-0502/Restaurant-finder-Bangalore-Dashboard
 * Pure Deep Learning , GAN - https://github.com/ayush-agarwal-0502/MC-DC-GAN
 * More computer vision (old) - https://github.com/ayush-agarwal-0502/OpenCV-projects- 
 
 
-Product Designing / Mechatronics :
+__Product Designing / Mechatronics / Ideas and innovations :__
 * https://github.com/ayush-agarwal-0502/Voice-Controlled-Mecanum-Based-Forklift-VOCMEF-
 * https://github.com/ayush-agarwal-0502/Innovative-Electronic-Door
 * https://github.com/ayush-agarwal-0502/Innovative-Oscillating-Fan---X-IoT-A-UDYAM-21
 * Naval Engineering - https://github.com/ayush-agarwal-0502/RC-Boat-Design
 
-Pure Robotics 
+__Pure Robotics__ 
 * Control Theory - https://github.com/ayush-agarwal-0502/Self-balance-bot-using-controllers
+* CAD design - https://github.com/ayush-agarwal-0502/CAD-projects
 * (Lot of stuff goes under mechatronics too) 
 
-Digital Electronics / Hardware :
+__Digital Electronics / Hardware :__
 * PCB Designing - https://github.com/ayush-agarwal-0502/Light-Pattern-PCB-project-
 * PCB Designing - https://github.com/ayush-agarwal-0502/RTC-chip-PCB-design-
 * Image processing hardware - https://github.com/ayush-agarwal-0502/Image-Processing-using-Verilog-ICHIP22-PS1
@@ -63,10 +64,13 @@ Digital Electronics / Hardware :
 * Digital Controls - https://github.com/ayush-agarwal-0502/Digital-Schmitt-Trigger-Controller-System-Verilog
 * https://github.com/ayush-agarwal-0502/Sort-in-O-N
 
-Finance - 
+__Finance -__ 
 * DCF - https://github.com/ayush-agarwal-0502/Capital-Budgeting-using-Discounted-Cash-Flow-DCF-
+* Options Trading (Quant, algorithmic trading) - https://github.com/ayush-agarwal-0502/Adjusting-short-straddle-Quant-bot-
+* (credit card project under ML )
+* (ik more finance, even if it looks less compared to my other experiences) 
 
-Blockchain - 
+__Blockchain -__ 
 * Cryptocurrency - https://github.com/ayush-agarwal-0502/AyushCoin-Cryptocurrency-project-
 
 ### Experience 
