@@ -51,7 +51,7 @@ __Product Designing / Mechatronics / Ideas and innovations :__
 * Naval Engineering - https://github.com/ayush-agarwal-0502/RC-Boat-Design
 
 __Pure Robotics__ 
-* Control Theory - https://github.com/ayush-agarwal-0502/Self-balance-bot-using-controllers
+* Control Theory, Reinforcement Learning - https://github.com/ayush-agarwal-0502/Self-balance-bot-using-controllers
 * CAD design - https://github.com/ayush-agarwal-0502/CAD-projects
 * (Lot of stuff goes under mechatronics too) 
 
