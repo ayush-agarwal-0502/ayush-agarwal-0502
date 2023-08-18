@@ -77,9 +77,9 @@ __Blockchain -__
 
 I have experience in <b> softwares and technologies </b>  like 
 * **Machine Learning Related** : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines, FBprophet etc ) 
-* **Electronics Related** : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) , HFSS (Antenna Design) 
+* **Electronics Related** : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) , HFSS (Antenna Design) , Jaspergold, Verdi, SVA (System Verilog Assertions)
 * **Robotics Related** : Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) ,
-* **Programming Related** : C ,C++, Python, SQL , Assembly(8056)
+* **Programming Related** : C ,C++, Python, SQL , Assembly(8086), Git (Obviously), Perforce (a bit), gVim 
 
   ### 📫 How to reach me ...
   
