@@ -20,19 +20,61 @@ I'm intrested and skilled in
 
 * **Mechatronics** ( Enthusiastic about designing new inventions ) , 
 * **Robotics** ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
-* **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning) 
+* **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning , tad bit experience with NLP, RL and Time series too ) 
 * **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) , 
 
-I'm also passionate about **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) ,**Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ) , **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) , **Data Structures and Algorithms** (Not actually that much intrested into solving its questions but its real life applications is amazing) 
+I'm also passionate about **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) ,**Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ) , **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) 
 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
-   
+
+
+### What I want you to see here on my page :
+
+Machine Learning / Data Science / Data Analytics Skills demonstration :
+
+* Data Science - https://github.com/ayush-agarwal-0502/Cassandra22-Data-Science
+* Finance Datasci - https://github.com/ayush-agarwal-0502/Credit-Card-Fraud-Detection-ML
+* Datasci in engineering - https://github.com/ayush-agarwal-0502/Machine-Predictive-Maintainence-Anomaly-Detection
+* Computer Vision Skills (beautiful visuals inside) - https://github.com/ayush-agarwal-0502/MLWare-Technex-Project---Stained-cell-counter
+* NLP, Deep learning (U Net) - https://github.com/ayush-agarwal-0502/SoundNet-Music-Source-Separation
+* NLP - https://github.com/ayush-agarwal-0502/Spam-Destroyer-NLP
+* Dashboard designing experience - https://github.com/ayush-agarwal-0502/Restaurant-finder-Bangalore-Dashboard
+* Pure Deep Learning , GAN - https://github.com/ayush-agarwal-0502/MC-DC-GAN
+* More computer vision (old) - https://github.com/ayush-agarwal-0502/OpenCV-projects- 
+
+
+Product Designing / Mechatronics :
+* https://github.com/ayush-agarwal-0502/Voice-Controlled-Mecanum-Based-Forklift-VOCMEF-
+* https://github.com/ayush-agarwal-0502/Innovative-Electronic-Door
+* https://github.com/ayush-agarwal-0502/Innovative-Oscillating-Fan---X-IoT-A-UDYAM-21
+* Naval Engineering - https://github.com/ayush-agarwal-0502/RC-Boat-Design
+
+Pure Robotics 
+* Control Theory - https://github.com/ayush-agarwal-0502/Self-balance-bot-using-controllers
+* (Lot of stuff goes under mechatronics too) 
+
+Digital Electronics / Hardware :
+* PCB Designing - https://github.com/ayush-agarwal-0502/Light-Pattern-PCB-project-
+* PCB Designing - https://github.com/ayush-agarwal-0502/RTC-chip-PCB-design-
+* Image processing hardware - https://github.com/ayush-agarwal-0502/Image-Processing-using-Verilog-ICHIP22-PS1
+* Encryption hardware - https://github.com/ayush-agarwal-0502/A5-1-and-XOR-PRNG-Image-encryption-using-verilog-
+* FPGA Des - https://github.com/ayush-agarwal-0502/CLB-FPGA-in-System-Verilog
+* Comms hardware - https://github.com/ayush-agarwal-0502/Duplex-UART-System-Verilog
+* Digital Controls - https://github.com/ayush-agarwal-0502/Digital-Schmitt-Trigger-Controller-System-Verilog
+* https://github.com/ayush-agarwal-0502/Sort-in-O-N
+
+Finance - 
+* DCF - https://github.com/ayush-agarwal-0502/Capital-Budgeting-using-Discounted-Cash-Flow-DCF-
+
+Blockchain - 
+* Cryptocurrency - https://github.com/ayush-agarwal-0502/AyushCoin-Cryptocurrency-project-
+
 ### Experience 
 
 I have experience in <b> softwares and technologies </b>  like 
+* **Machine Learning Related** : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines, FBprophet etc ) 
 * **Electronics Related** : Proteus ( Circuit Designing and Simulation Software ) , EagleCAD ( PCB designing software) , Vivado ( Verilog coding software), OrCAD (Circuit Designing Software) , Simulim ( I used for Power Electronics ) , MATLAB (everyone knows what it is ) , HFSS (Antenna Design) 
 * **Robotics Related** : Fusion 360 ( CAD Designing Software ) , Arduino , OpenCV (Image processing library ) , PyBullet ( Physics Simulation Software) ,
-* **Machine Learning Related** : ML libraries ( Tensorflow , Pandas , Numpy , MatplotLib , SciKit Learn , XGBoost, Catboost, stable-baselines, FBprophet etc ) 
 * **Programming Related** : C ,C++, Python, SQL , Assembly(8056)
 
   ### 📫 How to reach me ...
