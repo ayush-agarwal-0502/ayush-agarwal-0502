@@ -21,9 +21,10 @@ I'm intrested and skilled in
 * **Mechatronics** ( Enthusiastic about designing new inventions ) , 
 * **Robotics** ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
 * **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning , tad bit experience with NLP, RL and Time series too ) 
-* **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) , 
+* **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) ,
+* **Product** (Product Management, Business acumen, Finance)
 
-I'm also passionate about **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) ,**Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ) , **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ) 
+I'm also passionate about **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ), **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ), **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) 
 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
 
