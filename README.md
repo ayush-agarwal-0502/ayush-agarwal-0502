@@ -27,8 +27,6 @@ I'm intrested and skilled in
 I'm also passionate about **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ), **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ), **IoT** ( Haven't explored much yet , looking forward to , have some basic knowledge ) 
 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
-
-
 # What I want you to see here on my page :
 
 __Machine Learning / Data Science / Data Analytics Skills demonstration :__
@@ -37,9 +35,10 @@ __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 * Finance Datasci - https://github.com/ayush-agarwal-0502/Credit-Card-Fraud-Detection-ML
 * Datasci in engineering - https://github.com/ayush-agarwal-0502/Machine-Predictive-Maintainence-Anomaly-Detection
 * Computer Vision Skills (beautiful visuals inside)(medical) - https://github.com/ayush-agarwal-0502/MLWare-Technex-Project---Stained-cell-counter
+* Computer Vision (CNN)(Transfer Learning) - https://github.com/ayush-agarwal-0502/Concrete-Crack-Detection
 * NLP, Deep learning (U Net)(Speech) - https://github.com/ayush-agarwal-0502/SoundNet-Music-Source-Separation
 * NLP (Text) - https://github.com/ayush-agarwal-0502/Spam-Destroyer-NLP
-* Dashboard designing experience - https://github.com/ayush-agarwal-0502/Restaurant-finder-Bangalore-Dashboard
+* Dashboard designing experience (Power BI) - https://github.com/ayush-agarwal-0502/Restaurant-finder-Bangalore-Dashboard
 * Pure Deep Learning , GAN - https://github.com/ayush-agarwal-0502/MC-DC-GAN
 * More computer vision (old) - https://github.com/ayush-agarwal-0502/OpenCV-projects- 
 
