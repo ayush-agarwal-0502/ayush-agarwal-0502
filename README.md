@@ -41,7 +41,7 @@ __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 * Dashboard designing experience (Power BI) - https://github.com/ayush-agarwal-0502/Restaurant-finder-Bangalore-Dashboard
 * Pure Deep Learning , GAN - https://github.com/ayush-agarwal-0502/MC-DC-GAN
 * More computer vision (old) - https://github.com/ayush-agarwal-0502/OpenCV-projects- 
-
+* Data Analytics - https://github.com/ayush-agarwal-0502/Inplay-football-betting-IIMB
 
 __Product Designing / Mechatronics / Ideas and innovations :__
 * https://github.com/ayush-agarwal-0502/Voice-Controlled-Mecanum-Based-Forklift-VOCMEF-
