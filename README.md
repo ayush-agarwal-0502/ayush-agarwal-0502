@@ -18,13 +18,13 @@ I am fascinated by technology and love engineering very much . My work on vast v
 
 I'm intrested and skilled in  
 
-* **Machine Learning** ( Particularly Data Science, Computer Vision and Deep Learning , tad bit experience with NLP, RL and Time series too ) (Most Interested here :) 
+* **Machine Learning** ( Particularly __Data Science__, Computer Vision, Deep Learning , AI , __Data Analytics__ tad bit experience with NLP, RL and Time series too ) (Most Interested here :) 
 * **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) ,
 * **Product** (Product Management, Business acumen, Finance)
 * **Mechatronics** ( Enthusiastic about designing new inventions ) , 
 * **Robotics** ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
 
-I'm also passionate about **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ), **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ), **IoT** ( Haven't explored much yet, have some basic knowledge ) , as well as various subdomains of Data Science and Analytics
+<!--I'm also passionate about **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ), **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ), **IoT** ( Haven't explored much yet, have some basic knowledge ) , as well as various subdomains of Data Science and Analytics -->
 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
 # What I want you to see here on my page :
