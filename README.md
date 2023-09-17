@@ -31,6 +31,7 @@ I'm also passionate about **Electric Vehicles** ( Tried exploring Powertronics a
 
 __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 
+* Data Science (Customer Segmentation, Marketing) - https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation
 * Data Science (Invoice data) - https://github.com/ayush-agarwal-0502/Cassandra22-Data-Science
 * Finance Datasci - https://github.com/ayush-agarwal-0502/Credit-Card-Fraud-Detection-ML
 * Datasci in engineering - https://github.com/ayush-agarwal-0502/Machine-Predictive-Maintainence-Anomaly-Detection
