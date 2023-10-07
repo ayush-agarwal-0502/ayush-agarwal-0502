@@ -105,9 +105,9 @@ I have experience in <b> softwares and technologies </b>  like
 
 
 
-<p align=center>  
+<!---  <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=ayush-agarwal-0502&show_icons=true&theme=radical">
-</p>
+</p> --->
 
   
 
