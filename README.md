@@ -44,6 +44,7 @@ __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 * More computer vision (old) - https://github.com/ayush-agarwal-0502/OpenCV-projects- 
 * Data Analytics - https://github.com/ayush-agarwal-0502/Inplay-football-betting-IIMB
 * CNN on Fashion MNIST - https://github.com/ayush-agarwal-0502/clothes-classifier
+* Img2text (Transfer Learning)(ResNet50) - https://github.com/ayush-agarwal-0502/optical-character-recognition-using-ml
 
 __Product Designing / Mechatronics / Ideas and innovations :__
 * https://github.com/ayush-agarwal-0502/Voice-Controlled-Mecanum-Based-Forklift-VOCMEF-
