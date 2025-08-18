@@ -31,12 +31,12 @@ I'm intrested and skilled in
 __Projects I made on job :__
 
 (See Linkedin for detailed descriptions for these projects)
-Recommender System - Inshorts like news recsys at Naukri Minis
-Notification Pipelines - Data Engineering/ETL stuff to deliver 600k notifs for Naukri reels (yes we have reels)
-GenAI - Notification headline generator - for Naukri Reels
-Chatbot - at Cars24, for assisting car sales
-Audio AI - redaction - for cars24
-Potbot (RPA) - Invented, pitched and made potbot, a twitter bot for CrashFreeIndia
+* Recommender System - Inshorts like news recsys at Naukri Minis
+* Notification Pipelines - Data Engineering/ETL stuff to deliver 600k notifs for Naukri reels (yes we have reels)
+* GenAI - Notification headline generator - for Naukri Reels
+* Chatbot - at Cars24, for assisting car sales
+* Audio AI - redaction - for cars24
+* Potbot (RPA) - Invented, pitched and made potbot, a twitter bot for CrashFreeIndia
 
 __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 
