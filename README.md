@@ -18,16 +18,25 @@ I am fascinated by technology and love engineering very much . My work on vast v
 
 I'm intrested and skilled in  
 
-* **Machine Learning** ( Particularly __Data Science__, Computer Vision, Deep Learning , AI , __Data Analytics__ tad bit experience with NLP, RL and Time series too ) (Most Interested here :) 
+* **Machine Learning** ( Particularly __Data Science__, Computer Vision, Deep Learning , AI , __Data Analytics__ tad bit experience with NLP, RL, GenAI and Time series too ) (Most Interested here :) 
 * **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) ,
-* **Product** (Product Management, Business acumen, Finance)
-* **Mechatronics** ( Enthusiastic about designing new inventions ) , 
-* **Robotics** ( Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole ) ,
+* **Product** (Product Management, Business acumen, Finance AI)
+* **Mechatronics & Robotics** ( Enthusiastic about designing new inventions, Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole )
 
 <!--I'm also passionate about **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ), **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ), **IoT** ( Haven't explored much yet, have some basic knowledge ) , as well as various subdomains of Data Science and Analytics -->
 
 <img src="https://img.shields.io/badge/Robotics-brown"><img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Digital Electronics-yellow"><img src="https://img.shields.io/badge/Analog Electronics-orange"><img src="https://img.shields.io/badge/Mechatronics-blue"> <img src="https://img.shields.io/badge/Data Science-brightgreen"> <img src="https://img.shields.io/badge/Internet of Things-red"> <img src="https://img.shields.io/badge/Drones-yellow"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"> 
 # What I want you to see here on my page :
+
+__Projects I made on job :__
+
+(See Linkedin for detailed descriptions for these projects)
+Recommender System - Inshorts like news recsys at Naukri Minis
+Notification Pipelines - Data Engineering/ETL stuff to deliver 600k notifs for Naukri reels (yes we have reels)
+GenAI - Notification headline generator - for Naukri Reels
+Chatbot - at Cars24, for assisting car sales
+Audio AI - redaction - for cars24
+Potbot (RPA) - Invented, pitched and made potbot, a twitter bot for CrashFreeIndia
 
 __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 
@@ -47,6 +56,8 @@ __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 * Img2text (Transfer Learning)(ResNet50) - https://github.com/ayush-agarwal-0502/optical-character-recognition-using-ml
 * UNet - https://github.com/ayush-agarwal-0502/background-remover-for-photos
 * https://github.com/ayush-agarwal-0502/Sign-lang-translation-using-GMM
+* LoRA fine tuning - Whisper - Speech to text on Hindi
+
 
 __Product Designing / Mechatronics / Ideas and innovations :__
 * https://github.com/ayush-agarwal-0502/Voice-Controlled-Mecanum-Based-Forklift-VOCMEF-
