@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @ayush-agarwal-0502
 
-Hi, I'm Ayush Agarwal . Welcome to my GitHub Page . I'm an Electronics Engineering student at IIT BHU Varanasi (__ECE'24__) .
-I am fascinated by technology and love engineering very much . My work on vast variety of projects is availaible in my repositories , please see them :)
+Hi, I'm Ayush Agarwal . Welcome to my GitHub Page . I'm a MBA student at IIM Indore (__PGP'28__). Additionally, I'm an Electronics Engineering graduate from IIT BHU Varanasi (__ECE'24__) .
+I am fascinated by technology and data, and love to work on innovative ideas. My work on vast variety of projects is availaible in my repositories , please see them :)
 <!-- <p align=center><a href="https://github.com/ayush-agarwal-0502?tab=repositories"><img src="https://badges.pufler.dev/repos/ayush-agarwal-0502?style=flat-square&color=black&logo=github"></a></p> -->
   <!--
 <p align=center>
@@ -20,7 +20,9 @@ I'm intrested and skilled in
 
 * **Machine Learning** ( Particularly __Data Science__, Computer Vision, Deep Learning , AI , __Data Analytics__ tad bit experience with NLP, RL, GenAI and Time series too ) (Most Interested here :) 
 * **Electronics** ( Digital (FPGA , Verilog , ASIC Design , PCB Design) , Analog ) ,
-* **Product** (Product Management, Business acumen, Finance AI)
+* **Product Management** (Product Management, Business acumen)
+* **Analytics**
+* **General Management**
 * **Mechatronics & Robotics** ( Enthusiastic about designing new inventions, Bit of experience in Control theory , Reinforcement Learning , robotic kinematics , probablistic robotics each , but like robotics as a whole )
 
 <!--I'm also passionate about **Electric Vehicles** ( Tried exploring Powertronics and Mechanics of cars ), **Drones** ( Drones >>>> , a special place in heart , the controls theory , the electronics and the automation in it is breathtaking ), **IoT** ( Haven't explored much yet, have some basic knowledge ) , as well as various subdomains of Data Science and Analytics -->
