@@ -40,6 +40,10 @@ __Projects I made on job :__
 * Audio AI - redaction - for cars24
 * Potbot (RPA) - Invented, pitched and made potbot, a twitter bot for CrashFreeIndia
 
+__Web Dev -__ 
+
+* Resume Bucketing Tool - https://resume-bucket-tool-ayush.vercel.app/
+
 __Machine Learning / Data Science / Data Analytics Skills demonstration :__
 
 * Data Science (Customer Segmentation, Marketing) - https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation
